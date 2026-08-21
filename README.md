@@ -1,1 +1,1 @@
-These SQL queries demonstrate basic SQL knowledge and get more advanced over time, starting from basic SELECT ... FROM ... statements.
+These SQL queries demonstrate how to retrieve data with SQL and are critical for data analysts.  Beyond knowing these statements, more importantly an analyst must be able to ask the same questions management is asking, step through the process to find the answers, and report the findings in a way that can be easily understood.  SQL is the easiest part of this proces to learn.
